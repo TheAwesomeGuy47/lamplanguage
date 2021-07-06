@@ -21,7 +21,7 @@ Since then it has released (?) versions and has been downloaded over (?) times.
 
 If you want to download Lamp, please read the below instructions.
 
-1. Go to [this link] (github.com/TheAwesomeGuy47/The-Lamp-Language/releases/).
+1. Go to [this link] (https://www.github.com/TheAwesomeGuy47/The-Lamp-Language/releases/).
 2. Find the "release" at the top for the latest download, or scroll down for a older release.
 3. Once you have found the release, to download the source code, select "Source Code.zip" or "Source Code.tar.gz" (depending on your operating system), and to download the language, click any file that says "lamp" with any file extension.
 4. Run the downloaded file and you should have Lamp installed!
