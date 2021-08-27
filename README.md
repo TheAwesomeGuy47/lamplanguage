@@ -4,7 +4,7 @@
 
 *drumroll*
 
-**INTRODUCING..***
+**INTRODUCING..**
 **THE**
 
 **LAMP**
